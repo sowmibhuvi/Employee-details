@@ -7,40 +7,7 @@ var http = require('http');
 var cors = require('cors');
 
 const bodyParser = require('body-parser')
-// var multer = require('multer');
-// var Unzipper = require("decompress-zip");
-// var cors = require('cors');
-// var Q = require('q');
-// var nodemailer = require('nodemailer');
-// var jwt = require('jsonwebtoken');
-// var fs = require('fs');
-// var CryptoJS = require("crypto-js");
-//var Prince = require("prince");
-// var async = require('async');
-// const csv = require('csvtojson');
-// var mv = require('mv');
-// var fsextra = require('fs.extra');
-// var exec = require('child_process').exec;
-// var ncp = require('ncp').ncp;
-// const autosave_process = require('child_process');
-// var FileReader = require('filereader');
-// var Blob = require('blob');
-// var rimraf = require('rimraf');
-// var toBuffer = require('blob-to-buffer');
-// var ab2str = require('arraybuffer-to-string');
-// var htmlEncode = require('js-htmlencode').htmlEncode;
-// var htmlDecode = require('js-htmlencode').htmlDecode;
-// var cssbeautify = require('cssbeautify');
-// var extract = require('extract-zip');
 
-// var fsextras= require('fs-extra');
-
-
-// app.use(bodyParser.urlencoded({ extended: false }))
-
-
-// var json_file =require("./dummy.json");
-// var fileReader = require("filereader");
 
 var express = require('express');
 var app = express();
